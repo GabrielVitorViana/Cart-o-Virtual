@@ -20,3 +20,5 @@ Crachá Virtual DoWhile 2021
 #Autor 
 
 Gabriel Vitor Viana de Brito
+
+Linkedin:https://www.linkedin.com/in/gabriel-brito-b781b8197/
